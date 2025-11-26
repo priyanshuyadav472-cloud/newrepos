@@ -1,2 +1,3 @@
 # newrepos
-my first repos
+simple calculator
+
